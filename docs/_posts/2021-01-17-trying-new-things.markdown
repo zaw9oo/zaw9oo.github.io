@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trying new things"
-date: 2021-01-17 hh:mm:ss -0000
+date: 2021-01-17 11:52:00 +0630
 categories: Thoughts Thinking
 ---
 
